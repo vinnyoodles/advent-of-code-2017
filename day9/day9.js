@@ -38,7 +38,3 @@ function solve(data) {
     }
     console.log(total, count);
 }
-
-
-function part2(data) {
-}
